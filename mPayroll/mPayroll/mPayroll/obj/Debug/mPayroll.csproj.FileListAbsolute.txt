@@ -1,0 +1,54 @@
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\bin\Debug\mPayroll.exe.config
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\bin\Debug\mPayroll.exe
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\bin\Debug\mPayroll.pdb
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.LogIn.resources
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.Properties.Resources.resources
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.GenerateResource.cache
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.exe
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.pdb
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmMain.resources
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmEmployee.resources
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmSalary.resources
+C:\Users\Ayaan\source\repos\mPayroll\mPayroll\obj\Debug\mPayroll.csprojAssemblyReference.cache
+C:\Users\Tofael\Downloads\mPayroll\mPayroll\bin\Debug\mPayroll.exe.config
+C:\Users\Tofael\Downloads\mPayroll\mPayroll\obj\Debug\mPayroll.exe
+C:\Users\Tofael\Downloads\mPayroll\mPayroll\obj\Debug\mPayroll.pdb
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\bin\Debug\mPayroll.exe.config
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\bin\Debug\mPayroll.exe
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\bin\Debug\mPayroll.pdb
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmEmployee.resources
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmMain.resources
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.LogIn.resources
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.Properties.Resources.resources
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmSalary.resources
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.GenerateResource.cache
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.CoreCompileInputs.cache
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.exe
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.pdb
+C:\Users\Tofael\Desktop\mPayroll\mPayroll\obj\Debug\mPayroll.csprojAssemblyReference.cache
+F:\ALL complete .net project\mPayroll\mPayroll\bin\Debug\mPayroll.exe.config
+F:\ALL complete .net project\mPayroll\mPayroll\bin\Debug\mPayroll.exe
+F:\ALL complete .net project\mPayroll\mPayroll\bin\Debug\mPayroll.pdb
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.csprojAssemblyReference.cache
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmEmployee.resources
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmMain.resources
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.LogIn.resources
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.Properties.Resources.resources
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmSalary.resources
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.GenerateResource.cache
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.CoreCompileInputs.cache
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.exe
+F:\ALL complete .net project\mPayroll\mPayroll\obj\Debug\mPayroll.pdb
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\bin\Debug\mPayroll.exe.config
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.exe
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.pdb
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\bin\Debug\mPayroll.exe
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\bin\Debug\mPayroll.pdb
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.csprojResolveAssemblyReference.cache
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmEmployee.resources
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmMain.resources
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.LogIn.resources
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.Properties.Resources.resources
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.UI.frmSalary.resources
+F:\ALL complete .net project\GTECH\mPayroll\mPayroll\obj\Debug\mPayroll.csproj.GenerateResource.Cache
